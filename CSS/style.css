@@ -1,12 +1,16 @@
 /* Colores */
 footer {
-  background-color: #fbeada; }
+  background-color: #feba8c; }
+  footer h5 {
+    color: white; }
+  footer ul {
+    list-style: none; }
+    footer ul a:link, footer ul a:active, footer ul a:visited {
+      text-decoration: none;
+      color: black; }
 
 nav {
-  background-color: #fbeada; }
-
-h2 {
-  background-color: #fbeada; }
+  background-color: #feba8c; }
 
 main {
-  background-color: #f7c9b9; }
+  background-color: #feba8c; }
