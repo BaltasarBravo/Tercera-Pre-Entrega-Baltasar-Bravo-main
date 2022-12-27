@@ -14,3 +14,13 @@ nav {
 
 main {
   background-color: #feba8c; }
+
+form {
+  background-color: #feba8c; }
+  form h3 {
+    color: white; }
+  form ul {
+    list-style: none; }
+    form ul a:link, form ul a:active, form ul a:visited {
+      text-decoration: none;
+      color: black; }

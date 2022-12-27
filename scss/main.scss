@@ -34,3 +34,23 @@ main {
     background-color: $color-main;
 }
 
+form {
+    background-color: $color-main;
+
+    h3 {
+        color: white;
+    }
+
+    ul {
+        list-style: none;
+    
+        a:link, a:active, a:visited{
+            text-decoration: none;
+    
+            color: black;
+          }
+
+    }
+   
+}
+
